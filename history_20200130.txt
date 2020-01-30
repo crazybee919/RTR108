@@ -1,0 +1,72 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/crazybee919/RTR108.git
+    4  ls
+    5  cd RTR108/
+    6  nano git-upload
+    7  \ls
+    8  s
+    9  ls
+   10  chmod 7 git-upload 
+   11  ls
+   12  nano README.md
+   13  cat README.md 
+   14  ./git-upload 20200130_10_45
+   15  nano git-upload 
+   16  ./git-upload 20200130_10_45
+   17  ls
+   18  chmod 7 git-upload.c 
+   19  ls
+   20  ./git-upload 20200130_10_45
+   21  rm git-upload.c
+   22  ls
+   23  rm git-upload.c
+   24  ls
+   25  cat git-upload
+   26  chmod 744 git-upload 
+   27  chmod 744 git-upload.c 
+   28  rm git-upload.c
+   29  ls
+   30  ./git-upload 20200130_10_48
+   31  clear
+   32  pwd
+   33  cear
+   34  clear
+   35  python
+   36  iphyton
+   37  phyton
+   38  ls
+   39  python
+   40  Ipython
+   41  ipython
+   42  nano python_tests.py
+   43  cat python_tests.py 
+   44  python python_tests.py 
+   45  ls
+   46  nano python_tests.py
+   47  python python_tests.py 
+   48  nano python_tests.pynano python_tests.pynano python_tests.py
+   49  nano python_tests.py
+   50  python python_tests.py
+   51  python
+   52  python2 python_tests.py 
+   53  nano python_tests.py
+   54  python2 python_tests.py 
+   55  nano python_tests.py
+   56  python2 python_tests.py 
+   57  nano python_tests.py
+   58  clear
+   59  cp python_tests.py python_tests_auto_exe.py 
+   60  nano python_tests_auto_exe.py 
+   61  chmod 744 python_tests_auto_exe.py 
+   62  ./python_tests_auto_exe.py 
+   63  idle $
+   64  LS -L
+   65  ls -l
+   66  exit
+   67  ls
+   68  cd RTR108/
+   69  ls
+   70  python2 -m SimpleHTTPServer 8000
+   71  python2 -m SimpleHTTPServer 8001
+   72  history >> history_20200130.txt
